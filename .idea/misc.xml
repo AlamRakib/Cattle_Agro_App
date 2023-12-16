@@ -1,0 +1,39 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SylhetCattle/app/src/main/res/drawable/bottomcrubed.xml" value="0.269" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/drawable/custom_style.xml" value="0.269" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/drawable/cutom_style.xml" value="0.269" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/activity_cow_bazar_update_and_notice.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/activity_cow_beef_measurement.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/activity_cow_buy_and_sell_details.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/activity_cow_feed.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/activity_cow_goat_buy_sell.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/activity_cow_weight_calculator.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/activity_dairy_sector.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/activity_gavi_sell_details.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/activity_kosai.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/activity_splash_screen.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/activity_truck_service.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/fragment_gavi_sell.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/fragment_milk_fram.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/kosaisample_view.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/nav_header.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/sample_view.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/sample_view2.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/sample_view3.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/layout/sample_view4.xml" value="0.35280797101449274" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/menu/nav_items.xml" value="0.3619791666666667" />
+        <entry key="..\:/SylhetCattle/app/src/main/res/menu/toolbar_items.xml" value="0.3619791666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

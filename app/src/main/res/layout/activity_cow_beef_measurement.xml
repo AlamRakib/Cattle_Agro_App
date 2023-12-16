@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CowBeefMeasurementActivity"
+    android:orientation="vertical"
+    android:background="#368598FF"
+    android:padding="10dp"
+
+    >
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="একটি গরুতে মাংস থাকে ৬০-৬৫%
+অবশিষ্ট থাকে হাড় ও অন্যান্য জিনিস,
+এখানে মাংসের পরিমাণ ৬০% করে ধরা হয়েছে"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:background="#4CAF50"
+        android:textColor="@color/white"
+        android:padding="10dp"
+        android:layout_marginTop="40dp"
+        >
+
+    </TextView>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/beefmeasurement"
+        android:background="#CACACA"
+
+        >
+
+    </ImageView>
+
+    <EditText
+        android:id="@+id/editext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="20dp"
+        android:hint="গরুর ওজন"
+        >
+
+    </EditText>
+
+
+
+    <Button
+        android:id="@+id/calculateBeefWeight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="এখানে ক্লিক করুন"
+        android:layout_gravity="center"
+
+        >
+
+    </Button>
+
+
+    <TextView
+        android:id="@+id/tvdispaly"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="#E31000"
+        android:padding="10dp"
+        android:background="@color/white"
+        >
+
+    </TextView>
+</LinearLayout>

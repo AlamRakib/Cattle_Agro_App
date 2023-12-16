@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CowWeightCalculator"
+    android:orientation="vertical"
+    android:background="#368598FF"
+    android:padding="10dp"
+
+    >
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/cowweightmeasurement"
+        android:background="#CACACA"
+
+        >
+
+    </ImageView>
+
+    <EditText
+        android:id="@+id/editext1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="20dp"
+        android:hint="গরুর দৈর্ঘ্য"
+        >
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/edittext2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="20dp"
+        android:hint="গরুর বেড়"
+        >
+
+    </EditText>
+
+
+    <Button
+        android:id="@+id/calculateButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="এখানে ক্লিক করুন"
+
+        >
+
+    </Button>
+
+    <TextView
+        android:id="@+id/tvdispaly"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="#E31000"
+        android:padding="10dp"
+        android:background="@color/white"
+        >
+
+    </TextView>
+</LinearLayout>

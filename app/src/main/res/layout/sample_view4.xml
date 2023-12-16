@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/custom_style"
+        android:layout_margin="10dp"
+        >
+
+        <TextView
+            android:id="@+id/t1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bismillah Agro"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="#4CAF50"
+            android:padding="10dp"
+            android:textSize="20sp"
+
+            >
+
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="এইখানে গাভীর খাটি দুধ পাওয়া যায় "
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="#FF5722"
+            android:textSize="15sp"
+
+            >
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/t2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Contact No"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:padding="10dp"
+            >
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Location"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:padding="10dp"
+
+            >
+
+        </TextView>
+
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>

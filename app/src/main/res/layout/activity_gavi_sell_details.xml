@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GaviSellDetailsActivity"
+    android:orientation="vertical"
+    android:background="#368598FF"
+
+    >
+
+
+    <ImageView
+        android:id="@+id/imageViewId"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_margin="10dp"
+        >
+
+    </ImageView>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text=""
+                android:background="@drawable/custom_style"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:textColor="#4CAF50"
+                android:textStyle="bold|italic"
+                android:textSize="15sp"
+
+                >
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text=""
+                android:background="@drawable/custom_style"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:textColor="#4CAF50"
+                android:textStyle="bold|italic"
+                android:textSize="15sp"
+                >
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text="খামার মালিকের নাম্বার:"
+                android:background="@drawable/custom_style"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:textColor="#4CAF50"
+                android:textStyle="bold|italic"
+                android:textSize="15sp"
+
+                >
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text=""
+                android:background="@drawable/custom_style"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:textColor="#4CAF50"
+                android:textStyle="bold|italic"
+                android:textSize="15sp"
+                >
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text=""
+                android:background="@drawable/custom_style"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:textColor="#4CAF50"
+                android:textStyle="bold|italic"
+                android:textSize="15sp"
+                >
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text=""
+                android:background="@drawable/custom_style"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:textColor="#4CAF50"
+                android:textStyle="bold|italic"
+                android:textSize="15sp"
+                >
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text=""
+                android:background="@drawable/custom_style"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:textColor="#4CAF50"
+                android:textStyle="bold|italic"
+                android:textSize="15sp"
+                >
+
+            </TextView>
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+
+
+
+
+</LinearLayout>
